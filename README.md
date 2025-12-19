@@ -49,7 +49,7 @@ Job Satisfaction	- Employee's satisfaction level
 
 💡 Key Insights
 1. 💼 Work-Life Balance: Employees with poor work-life balance had higher attrition
-2, 📉 Overtime: Strong correlation between frequent overtime and resignations
+2. 📉 Overtime: Strong correlation between frequent overtime and resignations
 3. 💰 Salary Gaps: Specific roles were underpaid, leading to increased churn
 4. 📊 Department Disparities: Higher turnover in Sales and Technical Support
 
