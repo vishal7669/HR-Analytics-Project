@@ -36,12 +36,12 @@ Job Satisfaction	- Employee's satisfaction level
 - Removed duplicates and handled missing/null values
 - Standardized categorical values
 - Converted data types for analysis
-- 
+  
 2️⃣ Exploratory Data Analysis (Python + SQL)
 - Age distribution, job roles vs attrition, salary bands
 - Analyzed trends across departments and overtime patterns
 - Built visualizations with Matplotlib and Seaborn
-- 
+  
 3️⃣ Dashboard Creation (Power BI & Tableau)
 - Interactive filters: department, job role, age group, attrition status
 - Highlighted KPIs for HR teams (attrition %, avg. salary, etc.)
